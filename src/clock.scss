@@ -1,0 +1,287 @@
+$abb-gray10: rgb(235, 235, 235);
+$abb-gray20: rgb(219, 219, 219);
+$abb-gray30: rgb(186, 186, 186);
+$abb-gray40: rgb(159, 159, 159);
+$abb-gray50: rgb(134, 134, 134);
+$abb-gray60: rgb(105, 105, 105);
+$abb-gray70: rgb(70, 70, 70);
+$abb-gray80: rgb(51, 51, 51);
+$abb-gray90: rgb(31, 31, 31);
+$abb-gray100: rgb(15, 15, 15);
+$abb-black1: rgb(0, 0, 0);
+$abb-black2: rgb(5, 5, 5);
+$abb-black3: rgb(10, 10, 10);
+$abb-white1: rgb(255, 255, 255);
+$abb-white2: rgb(250, 250, 250);
+$abb-white3: rgb(245, 245, 245);
+$abb-primary10: rgb(224, 240, 255);
+$abb-primary20: rgb(197, 224, 250);
+$abb-primary30: rgb(158, 191, 247);
+$abb-primary40: rgb(119, 163, 252);
+$abb-primary50: rgb(76, 133, 255);
+$abb-primary60: rgb(51, 102, 255);
+$abb-primary70: rgb(42, 53, 255);
+$abb-primary80: rgb(44, 32, 212);
+$abb-primary90: rgb(22, 12, 156);
+$abb-primary100: rgb(8, 2, 97);
+$abb-status-yellow: rgb(255, 216, 0);
+$abb-status-orange: rgb(255, 115, 0);
+$abb-status-red: rgb(240, 48, 64);
+$abb-status-magenta: rgb(203, 43, 213);
+$abb-status-green: rgb(12, 169, 25);
+$abb-status-blue: rgb(51, 102, 255);
+$abb-purple10: rgb(250, 227, 250);
+$abb-purple20: rgb(250, 197, 250);
+$abb-purple30: rgb(242, 145, 242);
+$abb-purple40: rgb(230, 112, 230);
+$abb-purple50: rgb(204, 80, 204);
+$abb-purple60: rgb(161, 63, 161);
+$abb-purple70: rgb(143, 24, 143);
+$abb-purple80: rgb(122, 9, 122);
+$abb-purple90: rgb(74, 1, 74);
+$abb-purple100: rgb(36, 0, 36);
+$abb-magenta10: rgb(255, 227, 240);
+$abb-magenta20: rgb(255, 199, 228);
+$abb-magenta30: rgb(255, 148, 201);
+$abb-magenta40: rgb(255, 107, 181);
+$abb-magenta50: rgb(230, 73, 151);
+$abb-magenta60: rgb(194, 52, 123);
+$abb-magenta70: rgb(168, 19, 93);
+$abb-magenta80: rgb(130, 13, 72);
+$abb-magenta90: rgb(82, 3, 42);
+$abb-magenta100: rgb(46, 0, 22);
+$abb-blue10: rgb(222, 244, 250);
+$abb-blue20: rgb(179, 230, 255);
+$abb-blue30: rgb(108, 213, 255);
+$abb-blue40: rgb(47, 200, 247);
+$abb-blue50: rgb(0, 172, 236);
+$abb-blue60: rgb(27, 122, 194);
+$abb-blue70: rgb(0, 92, 163);
+$abb-blue80: rgb(0, 68, 128);
+$abb-blue90: rgb(0, 40, 74);
+$abb-blue100: rgb(3, 19, 36);
+$abb-teal10: rgb(215, 247, 243);
+$abb-teal20: rgb(181, 235, 226);
+$abb-teal30: rgb(126, 214, 198);
+$abb-teal40: rgb(90, 191, 174);
+$abb-teal50: rgb(61, 161, 144);
+$abb-teal60: rgb(59, 120, 110);
+$abb-teal70: rgb(25, 92, 80);
+$abb-teal80: rgb(22, 69, 61);
+$abb-teal90: rgb(9, 41, 35);
+$abb-teal100: rgb(0, 23, 18);
+$abb-green10: rgb(226, 247, 223);
+$abb-green20: rgb(191, 237, 187);
+$abb-green30: rgb(152, 214, 148);
+$abb-green40: rgb(117, 186, 112);
+$abb-green50: rgb(81, 163, 75);
+$abb-green60: rgb(71, 122, 67);
+$abb-green70: rgb(30, 97, 25);
+$abb-green80: rgb(27, 71, 24);
+$abb-green90: rgb(16, 41, 14);
+$abb-green100: rgb(1, 26, 0);
+$abb-yellow10: rgb(250, 245, 182);
+$abb-yellow20: rgb(237, 229, 111);
+$abb-yellow30: rgb(214, 201, 24);
+$abb-yellow40: rgb(181, 170, 13);
+$abb-yellow50: rgb(150, 141, 11);
+$abb-yellow60: rgb(117, 110, 9);
+$abb-yellow70: rgb(82, 76, 0);
+$abb-yellow80: rgb(59, 56, 19);
+$abb-yellow90: rgb(36, 33, 2);
+$abb-yellow100: rgb(18, 17, 1);
+$abb-gold10: rgb(255, 237, 219);
+$abb-gold20: rgb(255, 211, 168);
+$abb-gold30: rgb(242, 172, 102);
+$abb-gold40: rgb(217, 143, 69);
+$abb-gold50: rgb(194, 113, 33);
+$abb-gold60: rgb(166, 85, 3);
+$abb-gold70: rgb(117, 59, 0);
+$abb-gold80: rgb(84, 44, 4);
+$abb-gold90: rgb(51, 27, 2);
+$abb-gold100: rgb(26, 14, 0);
+$abb-orange10: rgb(255, 234, 232);
+$abb-orange20: rgb(255, 206, 196);
+$abb-orange30: rgb(255, 159, 140);
+$abb-orange40: rgb(245, 124, 100);
+$abb-orange50: rgb(237, 87, 57);
+$abb-orange60: rgb(217, 54, 22);
+$abb-orange70: rgb(168, 32, 5);
+$abb-orange80: rgb(117, 26, 8);
+$abb-orange90: rgb(77, 13, 0);
+$abb-orange100: rgb(41, 7, 0);
+$abb-red10: rgb(255, 232, 234);
+$abb-red20: rgb(255, 201, 205);
+$abb-red30: rgb(255, 153, 160);
+$abb-red40: rgb(255, 117, 126);
+$abb-red50: rgb(255, 71, 84);
+$abb-red60: rgb(225, 46, 46);
+$abb-red70: rgb(204, 8, 21);
+$abb-red80: rgb(163, 0, 5);
+$abb-red90: rgb(92, 0, 6);
+$abb-red100: rgb(62, 0, 0);
+$font-size-base: 16px;
+$font-size-xs: 0.75rem;
+$font-size-s: 0.875rem;
+$font-size-l: 1.5rem;
+$font-size-xl: 2.5rem;
+$clock-size: 120px;
+
+$clock-hour-hand-width: 6px;
+$clock-hour-hand-height: 30px;
+$clock-minute-hand-width: 3px;
+$clock-minute-hand-height: 50px;
+$clock-second-hand-width: 1px;
+$clock-second-hand-height: 55px;
+$clock-second-tail-width: 3px;
+$clock-second-tail-height: 20px;
+
+.clock {
+  border: 4px solid $abb-white1;
+  display: block;
+  position: relative;
+  content: ' ';
+  width: $clock-size;
+  height: $clock-size;
+  border-radius: 50%;
+  margin: 48px auto 0;
+  &:before,
+  &:after {
+    position: absolute;
+    content: ' ';
+    display: block;
+    background-color: $abb-white1;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: all ease-in 0.5s;
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  &:after {
+    background-color: $abb-primary40; // $abb-white1;
+    width: 9px;
+    height: 9px;
+    border: 4px solid $abb-primary40;
+    z-index: 5;
+  }
+  & > .scale {
+    position: absolute;
+    content: ' ';
+    display: block;
+    background-color: $abb-white1;
+    top: 50%;
+    left: 50%;
+    transform-origin: 50% $clock-size/2;
+    // transform: translate(-50%, -$clock-size / 2);
+    width: 3px;
+    height: 8px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+
+    &.scale-1,
+    &.scale-2,
+    &.scale-4,
+    &.scale-5,
+    &.scale-7,
+    &.scale-8,
+    &.scale-10,
+    &.scale-11 {
+      width: 1px;
+      height: 6px;
+    }
+    &.scale-1 {
+      transform: translate(-50%, -$clock-size/2) rotate(30deg);
+    }
+    &.scale-2 {
+      transform: translate(-50%, -$clock-size/2) rotate(60deg);
+    }
+    &.scale-3 {
+      transform: translate(-50%, -$clock-size/2) rotate(90deg);
+    }
+    &.scale-4 {
+      transform: translate(-50%, -$clock-size/2) rotate(120deg);
+    }
+    &.scale-5 {
+      transform: translate(-50%, -$clock-size/2) rotate(150deg);
+    }
+    &.scale-6 {
+      transform: translate(-50%, -$clock-size/2) rotate(180deg);
+    }
+    &.scale-7 {
+      transform: translate(-50%, -$clock-size/2) rotate(210deg);
+    }
+    &.scale-8 {
+      transform: translate(-50%, -$clock-size/2) rotate(240deg);
+    }
+    &.scale-9 {
+      transform: translate(-50%, -$clock-size/2) rotate(270deg);
+    }
+    &.scale-10 {
+      transform: translate(-50%, -$clock-size/2) rotate(300deg);
+    }
+    &.scale-11 {
+      transform: translate(-50%, -$clock-size/2) rotate(330deg);
+    }
+    &.scale-12 {
+      transform: translate(-50%, -$clock-size/2) rotate(0deg);
+    }
+  }
+
+  &-hour-hand,
+  &-minute-hand {
+    transition: all ease 0.2s;
+  }
+  &-hour-hand,
+  &-minute-hand,
+  &-second-hand,
+  &-second-tail {
+    position: absolute;
+    content: ' ';
+    display: block;
+    background-color: $abb-white1;
+    top: 50%;
+    left: 50%;
+    transform-origin: 50% 100%;
+    // transform: translate(-50%, -$clock-size/2);
+  }
+  &-hour-hand {
+    width: $clock-hour-hand-width;
+    height: $clock-hour-hand-height;
+    border-radius: $clock-hour-hand-width;
+    z-index: 2;
+  }
+  &-minute-hand {
+    width: $clock-minute-hand-width;
+    height: $clock-minute-hand-height;
+    border-radius: $clock-minute-hand-width;
+    z-index: 3;
+  }
+  &-second-hand {
+    width: $clock-second-hand-width;
+    height: $clock-second-hand-height;
+    border-radius: $clock-second-hand-width;
+    z-index: 4;
+  }
+  &-second-tail {
+    transform-origin: 50% 0;
+    width: $clock-second-tail-width;
+    height: $clock-second-tail-height;
+    border-radius: $clock-second-hand-width;
+    z-index: 4;
+  }
+
+  // &:after {
+  //   background-color: $abb-white1;
+  //   border: 3px solid $abb-primary20;
+  //   // box-shadow: #fff 0 0 0px 2px;
+  // }
+
+  &-second-hand,
+  &-second-tail {
+    background-color: $abb-primary40;
+  }
+}

@@ -1,11 +1,11 @@
 import React from "react";
 import "./style.css";
+import Clock from "./clock.jsx";
 
 export default function App() {
   return (
-    <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+    <div style={{padding: '6px'}}>
+      <Clock  />
     </div>
   );
 }
